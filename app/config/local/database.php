@@ -57,7 +57,7 @@ return array(
 			'host'      => '127.0.0.1',
 			'database'  => 'arquigrafia',
 			'username'  => 'root',
-			'password'  => '102938', // trocar para o seu caso
+			'password'  => '', // trocar para o seu caso
 			'charset'   => 'utf8',
 			'collation' => 'utf8_unicode_ci',
 			'prefix'    => '',
